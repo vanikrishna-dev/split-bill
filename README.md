@@ -13,7 +13,7 @@ A free, no-signup bill splitting tool. Enter the total, add people, and instantl
 - CSS Modules
 
 ## Live Demo
-[View on Vercel](your-vercel-url-here)
+[View on Vercel](https://split-bill-chi-bay.vercel.app/)
 
 ---
 Built for Digital Heroes — digitalheroesco.com
